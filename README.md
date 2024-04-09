@@ -1,4 +1,4 @@
-# AtliQ-Technologies
+# AtliQ-Technologies -- Power BI
 
 # **Problem Statement:**
 
